@@ -1,3 +1,4 @@
+![Uploading Github Banner.png…]()
 
 - 👋 Hi, I'm Yeanie!
 - 🌟 Skills: R, Microsoft Excel, Microsoft Power BI.
