@@ -1,5 +1,3 @@
-![Github Banner](https://github.com/yeaniel/yeaniel/assets/157253400/4da161f3-306e-4fea-8a10-a2935b919f58)
-
 - 👋 Hi, I'm Yeanie!
 - 🌟 Skills: R, Microsoft Excel, Microsoft Power BI, GraphPad Prism, & SQL.
 - 📈 Projects: My projects primarily revolve around data cleaning, and visualization to
